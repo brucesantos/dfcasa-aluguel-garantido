@@ -170,6 +170,19 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/i\/og-image.jpg" : {
+      "ft" : 16384,
+      "iS" : 380039,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/i\/og-image.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/i\/Shield.svg" : {
       "ft" : 2097152,
       "miP" : 0,
